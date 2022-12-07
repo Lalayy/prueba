@@ -18,7 +18,7 @@
   }
   
   body{
-    background-color: rgb(255, 255, 255);
+    background-color: #343940;
   }
   .banner { grid-area: banner; display: flex; justify-content: center; align-items: center; background-color: gray;}
   .banner img{
